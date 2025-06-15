@@ -1,0 +1,32 @@
+{
+  "domains": [
+    {
+      "name": "GPTSkore.com",
+      "tagline": "Measure what your GPT is worth.",
+      "description": "Trust scoring for GPT plugins, AI agents, and model evaluations.",
+      "logo": "GPTSKORE.png",
+      "category": "GPT / LLM Scoring"
+    },
+    {
+      "name": "GPTTrustSkore.com",
+      "tagline": "Alignment, Audited.",
+      "description": "Audit trust and alignment performance of language models.",
+      "logo": "GPT TRUST SKORE....png",
+      "category": "AI Alignment / Model Audit"
+    },
+    {
+      "name": "AIskore.com",
+      "tagline": "Trust, Scored.",
+      "description": "A universal scoring interface for AI agents and neural systems.",
+      "logo": "AI Skore.png",
+      "category": "AI Infrastructure"
+    },
+    {
+      "name": "CryptoSkore.com",
+      "tagline": "DeFi Trust, Tokenized.",
+      "description": "Reputation scoring and trust signals for crypto wallets, assets, and DeFi protocols.",
+      "logo": "Crypto Skore.png",
+      "category": "Crypto / DeFi / Reputation"
+    }
+  ]
+}
